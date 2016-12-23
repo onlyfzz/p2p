@@ -580,6 +580,9 @@ footer p {
 	.product-right .item-time {
 		width: 30%;
 	}
+	.product-right .item-time strong{
+		font-size: 2.2rem
+	}
 	.product-right .item-info {
 		width: 70%;
 		border: none;
@@ -588,9 +591,6 @@ footer p {
 		clear: both;
 		display: block;
 		width: 100%;
-	}
-	.bonds .item-time{
-		padding-top: 0;
 	}
 }
 
